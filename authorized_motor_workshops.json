@@ -429,8 +429,7 @@
     "category": "Authorised Windscreen Workshop",
     "region": "West",
     "lat": "1.3322825211152176",
-    "lng": "103.89513239579885",
-    "remarks": "All makes/ model excluding Tesla"
+    "lng": "103.89513239579885"
   },
   {
     "name": "Glass-Fix Pte Ltd (Toh Guan)",
@@ -452,8 +451,7 @@
     "category": "Authorised Windscreen Workshop",
     "region": "East",
     "lat": "1.3335982209763613",
-    "lng": "103.75843629579886",
-    "remarks": "All makes/ model excluding Tesla"
+    "lng": "103.75843629579886"
   },
   {
     "name": "Glazity Auto Pte Ltd (Kaki Bukit)",
