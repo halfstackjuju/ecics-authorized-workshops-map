@@ -11,7 +11,7 @@
     "lng": "103.89480545484984"
   },
   {
-    "name": "Accord Autocare Pte Ltd (Main - Soon Lee)",
+    "name": "Accord Autocare Pte Ltd (Soon Lee - Main)",
     "address": "7 Soon Lee Street #05-02/03/04/05 iSpace Singapore 627608",
     "location": "Soon Lee",
     "contact": "92239933",
@@ -22,7 +22,7 @@
     "lng": "103.70002162416364"
   },
   {
-    "name": "Accord Autocare Pte Ltd (Bukit Merah)",
+    "name": "Accord Autocare Pte Ltd (Bukit Merah - Branch)",
     "address": "1009 Bukit Merah Lane 3 #01-80 Singapore 159723",
     "location": "Bukit Merah",
     "contact": "62715133",
@@ -33,7 +33,7 @@
     "lng": "103.8046755828242"
   },
   {
-    "name": "Accord Autocare Pte Ltd (Ang Mo Kio)",
+    "name": "Accord Autocare Pte Ltd (Ang Mo Kio - Branch)",
     "address": "7 Ang Mo Kio Industrial Park 2A #01-05 AMK Autopoint Singapore 568047",
     "location": "Ang Mo Kio",
     "contact": "64819518",
@@ -44,7 +44,7 @@
     "lng": "103.86930593734166"
   },
   {
-    "name": "AutoInsure by Century Motors (Main - Marsiling)",
+    "name": "AutoInsure by Century Motors (Marsiling - Main)",
     "address": "6 Marsiling Lane Singapore 739145",
     "location": "Marsiling",
     "contact": "31572626/88212626",
@@ -55,7 +55,7 @@
     "lng": "103.77732547072267"
   },
   {
-    "name": "AutoInsure by Century Motors (Toh Guan)",
+    "name": "AutoInsure by Century Motors (Toh Guan - Branch)",
     "address": "48 Toh Guan Road East #01-101 Enterprise Hub Singapore 608586",
     "location": "Toh Guan",
     "contact": "31572618/87832626",
@@ -67,7 +67,7 @@
     "remarks": "Accident Reporting Centre Only"
   },
   {
-    "name": "AutoInsure by Century Motors (Kaki Bukit)",
+    "name": "AutoInsure by Century Motors (Kaki Bukit - Branch)",
     "address": "8 Kaki Bukit Avenue 4 #03-50 Premier @ Kaki Bukit Singapore 415875",
     "location": "Kaki Bukit",
     "contact": "31572617/88232626",
@@ -90,7 +90,7 @@
     "lng": "103.80414089406273"
   },
   {
-    "name": "Cheng Hoe Motor Pte Ltd (Main - Yishun)",
+    "name": "Cheng Hoe Motor Pte Ltd (Yishun - Main)",
     "address": "Blk 1019 Yishun Industrial Park A #01-374/382 Singapore 768761",
     "location": "Yishun",
     "contact": "67556142",
@@ -101,7 +101,7 @@
     "lng": "103.83377579346612"
   },
   {
-    "name": "Cheng Hoe Motor Pte Ltd (Woodlands)",
+    "name": "Cheng Hoe Motor Pte Ltd (Woodlands - Main)",
     "address": "38 Woodlands Industrial Park E1 #05- 04/05 Singapore 757700",
     "location": "Woodlands",
     "contact": "67556142",
@@ -134,7 +134,7 @@
     "lng": "103.79804364003584"
   },
   {
-    "name": "Diplomat Parts Pte Limited (Main - Teban Gardens)",
+    "name": "Diplomat Parts Pte Limited (Teban Gardens - Main)",
     "address": "209 Pandan Gardens Singapore 609339",
     "location": "Teban Gardens",
     "contact": "64719111",
@@ -145,7 +145,7 @@
     "lng": "103.74835193102273"
   },
   {
-    "name": "Diplomat Parts Pte Limited (Sin Ming)",
+    "name": "Diplomat Parts Pte Limited (Sin Ming - Branch)",
     "address": "600 Sin Ming Avenue Singapore 575733",
     "location": "Sin Ming",
     "contact": "64719111",
@@ -234,7 +234,7 @@
     "lng": "103.6952809627931"
   },
   {
-    "name": "Vin’s Motor Pte Ltd (Main - Sin Ming)",
+    "name": "Vin’s Motor Pte Ltd (Sin Ming - Main)",
     "address": "160 Sin Ming Drive #03-03 Sin Ming AutoCity Singapore 575722",
     "location": "Sin Ming",
     "contact": "64532121",
@@ -245,7 +245,7 @@
     "lng": "103.83923734431404"
   },
   {
-    "name": "Vin’s Motor Pte Ltd (Kranji)",
+    "name": "Vin’s Motor Pte Ltd (Kranji - Branch)",
     "address": "60 Jalan Lam Huat #05-01 Carros Centre Singapore 737869",
     "location": "Kranji",
     "contact": "64532121",
@@ -289,7 +289,7 @@
     "lng": "103.90579312463463"
   },
   {
-    "name": "Borneo Motors (Singapore) Pte Ltd. (West Coast)",
+    "name": "Borneo Motors (Singapore) Pte Ltd. (West Coast - Branch)",
     "address": "Inchcape Bodycare Centre, Level 4, 2 Pandan Crescent, Singapore 128462",
     "location": "West Coast",
     "contact": "66311188",
@@ -301,7 +301,7 @@
     "remarks": "Toyota & Lexus vehicles only"
   },
   {
-    "name": "Borneo Motors (Singapore) Pte Ltd. (Ubi)",
+    "name": "Borneo Motors (Singapore) Pte Ltd. (Ubi - Branch)",
     "address": "17 Ubi Rd 4, Singapore 408611",
     "location": "Ubi",
     "contact": "66311188",
@@ -337,7 +337,7 @@
     "remarks": "All electric cars makes/ model except Tesla"
   },
   {
-    "name": "AutoInsure by Century Motors (Main - Marsiling)",
+    "name": "AutoInsure by Century Motors (Marsiling - Main)",
     "address": "6 Marsiling Lane, Singapore, 739145",
     "location": "Marsiling",
     "contact": "31572626/88212626",
@@ -349,7 +349,7 @@
     "remarks": "All electric cars makes/ model except Tesla"
   },
    {
-    "name": "AutoInsure by Century Motors (Toh Guan)",
+    "name": "AutoInsure by Century Motors (Toh Guan - Branch)",
     "address": "48 Toh Guan Road East, 01-101, Enterprise Hub, Singapore 608586",
     "location": "Toh Guan",
     "contact": "31572618/ 87832626",
@@ -361,7 +361,7 @@
     "remarks": "Accident Reporting Centre only"
   },
    {
-    "name": "AutoInsure by Century Motors (Kaki Bukit)",
+    "name": "AutoInsure by Century Motors (Kaki Bukit - Branch)",
     "address": "8 Kaki Bukit Avenue 4, #03- 50, Premier @ Kaki Bukit, Singapore 415875",
     "location": "Kaki Bukit",
     "contact": "3157 2617/ 8823 2626",
@@ -421,7 +421,7 @@
     "remarks": "All electric cars makes/ model except Tesla"
   },
   {
-    "name": "Glass-Fix Pte Ltd (Main - Ubi)",
+    "name": "Glass-Fix Pte Ltd (Ubi - Main)",
     "address": "52 Ubi Avenue 3, #04- 42, Frontier E Park, Singapore 408867",
     "location": "Ubi",
     "contact": "62780887",
@@ -432,7 +432,7 @@
     "lng": "103.89513239579885"
   },
   {
-    "name": "Glass-Fix Pte Ltd (Toh Guan)",
+    "name": "Glass-Fix Pte Ltd (Toh Guan - Branch)",
     "address": "48 Toh Guan Road East, #03- 128, Enterprise Hub, Singapore 408867",
     "location": "Toh Guan",
     "contact": "62780887",
@@ -443,7 +443,7 @@
     "lng": "103.75403518045594"
   },
   {
-    "name": "Glazity Auto Pte Ltd (Main - Toh Guan)",
+    "name": "Glazity Auto Pte Ltd (Toh Guan - Main)",
     "address": "32 Old Toh Tuck Road, #02-04, Singapore 597658",
     "location": "Toh Guan",
     "contact": "96883619",
@@ -454,7 +454,7 @@
     "lng": "103.75843629579886"
   },
   {
-    "name": "Glazity Auto Pte Ltd (Kaki Bukit)",
+    "name": "Glazity Auto Pte Ltd (Kaki Bukit - Branch)",
     "address": "15 Kaki Bukit Rd 4, 01-28, Bartley Biz Centre, Singapore 417808",
     "location": "Kaki Bukit",
     "contact": "96883619",
