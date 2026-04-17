@@ -90,7 +90,7 @@
     "lng": "103.80414089406273"
   },
   {
-    "name": "Cheng Hoe Motor Pte Ltd (Yishun - Main)",
+    "name": "Cheng Hoe Motor Pte Ltd (Yishun - Branch)",
     "address": "Blk 1019 Yishun Industrial Park A #01-374/382 Singapore 768761",
     "location": "Yishun",
     "contact": "67556142",
@@ -289,7 +289,7 @@
     "lng": "103.90579312463463"
   },
   {
-    "name": "Borneo Motors (Singapore) Pte Ltd. (West Coast - Branch)",
+    "name": "Borneo Motors (Singapore) Pte Ltd (West Coast - Branch)",
     "address": "Inchcape Bodycare Centre, Level 4, 2 Pandan Crescent, Singapore 128462",
     "location": "West Coast",
     "contact": "66311188",
@@ -301,7 +301,7 @@
     "remarks": "Toyota & Lexus vehicles only"
   },
   {
-    "name": "Borneo Motors (Singapore) Pte Ltd. (Ubi - Branch)",
+    "name": "Borneo Motors (Singapore) Pte Ltd (Ubi - Branch)",
     "address": "17 Ubi Rd 4, Singapore 408611",
     "location": "Ubi",
     "contact": "66311188",
@@ -313,7 +313,7 @@
     "remarks": "Accident Reporting Centre only"
   },
   {
-    "name": "Champion Motor (1975) Pte. Ltd.",
+    "name": "Champion Motor (1975) Pte Ltd",
     "address": "Inchcape Bodycare Centre, Level 4, 2 Pandan Crescent, Singapore 128462",
     "location": "West Coast",
     "contact": "66311188",
@@ -325,7 +325,7 @@
     "remarks": "Suzuki vehicles only"
   },
   {
-    "name": "Accord Autocare Pte Ltd.",
+    "name": "Accord Autocare Pte Ltd",
     "address": "7 Soon Lee Street #05-02/03/04/05 iSpace Singapore 627608",
     "location": "Soon Lee",
     "contact": "92239933",
