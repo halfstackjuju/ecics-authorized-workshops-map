@@ -409,6 +409,18 @@
     "remarks": "All electric cars makes/ model except Tesla"
   }, 
   {
+    "name": "SR EV Automotive Pte Ltd",
+    "address": "23 Kaki Bukit Road 4, Synergy@KB, #01-12/13, Singapore, 417801",
+    "location": "Kaki Bukit",
+    "contact": "64232090",
+    "email": "",
+    "category": "Electric Cars (EV) Authorised Workshop",
+    "region": "Central",
+    "lat": "1.3494253605506374",
+    "lng": "103.91186076897522",
+    "remarks": "Only for Tesla vehicles"
+  }, 
+  {
     "name": "1st Autoworks Pte Ltd",
     "address": "7 Ubi Close, Level 1, Alpine Centre, Singapore 408604",
     "location": "Ubi",
